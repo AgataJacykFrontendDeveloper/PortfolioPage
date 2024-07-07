@@ -61,6 +61,9 @@ english certificate - No. 92256118</li>
 </ul>
 
 <h4>Other</h4>
+<p>6 / 2024 <br>
+Establishing a business - VivIT
+</p>
 <p>3 / 2022 - 9 / 2023<br>
 Rector's Scholarship for academic 
 achievements</p>
@@ -70,11 +73,22 @@ Volunteer</p>
 
       </div>
 <div class="big-box"> <h4>Job experience</h4>
-<p>3 / 2021 - present</p>
+  <p>2 / 2024 - present</p>
+  <p>Internship in WEB4PRO</p>
+  <p>React.js,  Wordpress, HTML, CSS, JavaScript</p>
+  <p>Design for the projects, Graphics for the side</p>
+  <p>Project Manager</p>
+  <p>3 / 2021 - present</p>
 <p>Freelancer - Frontend Developer</p>
 <ul>
 <li>
-<p>7 / 2023 - present</p>
+<p>7 / 2024 - present</p>
+<p>Richi Safari - </p>
+<p>React.js, JavaScript, Bootstrap, HTML, CSS</p>
+<p>Web design, Graphics for the side</p>
+</li>
+<li>
+<p>7 / 2023 - 9 / 2023</p>
 <p><a href="https://nutriwiki.pl/ ">Nutri wiki</a></p>
 <p>PHP, Wordpress, HTML, CSS, JavaScript </p>
 <p>Web design, Graphics for the side, Coding - frontend site, Newsletter</p>
@@ -103,13 +117,7 @@ Volunteer</p>
 <li><b>Database:</b> SQL</li>
 <li><b>Web/Apps design:</b> Figma, Canva</li>
 <li><b>Digital art:</b> Gimp, Procreate</li>
-</ul>
-<ul>
-<li>creativity</li>
-<li>good sense of aesthetics</li>
-<li>good communication</li>
-<li>teamplayer</li>
-<li>organisation</li>
+<li><b>Soft skills:</b> creativity, good sense of aesthetics, good communication, team player, organization, willingness to learn</li>
 </ul>
 
 </div>
