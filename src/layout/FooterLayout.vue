@@ -21,7 +21,7 @@
         <h2>Contact</h2>
       <p>tel. 661-470-335</p>
       <p>e-mail: agatajacyk.webdeveloper@gmail.com</p>
-      <p>@Copyright Agata J</p></div>
+      <p>@Copyright VivIT</p></div>
     </div>
   </footer>
 </template>

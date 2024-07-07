@@ -1,6 +1,6 @@
 <template>
 <social-button>
-<a class="social" href="https://github.com/AgataJacyk" target="_blank"><img class="social_media" src="/logo_github_icon_143196.png"></a>
+<a class="social" href="https://github.com/AgataJacykFrontendDeveloper" target="_blank"><img class="social_media" src="/logo_github_icon_143196.png"></a>
 </social-button>
     </template>
     <script>

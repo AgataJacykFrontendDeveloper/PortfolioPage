@@ -9,8 +9,8 @@
             <p>Junior Frontend Developer</p>
             <p><i class="fa-solid fa-phone"></i> <a href="tel:+48661470335">661-470-335</a> </p>
             <p><i class="fa-solid fa-envelope"></i> <a href="mailto:agatajacyk.webdeveloper@gmail.com">agatajacyk.webdeveloper@gmail.com</a></p>
-            <p><i class="fa-solid fa-user"></i> <a href="https://agatajacyk.netlify.app/">https://agatajacyk.netlify.app/</a></p>
-            <p><i class="fa-brands fa-github"></i> <a href="https://github.com/AgataJacyk">https://github.com/AgataJacyk</a></p>
+            <p><i class="fa-solid fa-user"></i> <a href="https://agata-jacyk.netlify.app/">https://agata-jacyk.netlify.app/</a></p>
+            <p><i class="fa-brands fa-github"></i> <a href="https://github.com/AgataJacykFrontendDeveloper">https://github.com/AgataJacykFrontendDeveloper</a></p>
             <p>
               if you hire me, you will gain an employee with a passion for
               creating and crossing your own borders. An ambitious person who is
@@ -83,7 +83,7 @@ Volunteer</p>
 <ul>
 <li>
 <p>7 / 2024 - present</p>
-<p>Richi Safari - </p>
+<p>Richi Safari</p>
 <p>React.js, JavaScript, Bootstrap, HTML, CSS</p>
 <p>Web design, Graphics for the side</p>
 </li>
