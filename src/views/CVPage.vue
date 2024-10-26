@@ -72,13 +72,8 @@ Volunteer</p>
   <p>7 / 2024 - present</p>
   <p>Giganci Programowania - programming trainer for children and youth</p>
   <p>Scratch, Minecraft Education, JavaScript</p>
-  <p>2 / 2024 - 9 / 2024</p>
-  <p>Internship in WEB4PRO</p>
-  <p>React.js,  Wordpress, HTML, CSS, JavaScript</p>
-  <p>Design for the projects, Graphics for the side</p>
-  <p>Project Manager</p>
   <p>3 / 2021 - present</p>
-<p>Freelancer - Frontend Developer</p>
+  <p>Freelancer - Frontend Developer</p>
 <p>7 / 2024 - present</p>
 <p><a href="https://richi-safari.vercel.app/">Richi Safari</a></p>
 <p>React.js, JavaScript, Bootstrap, HTML, CSS</p>
@@ -92,6 +87,11 @@ Volunteer</p>
 <p><a href="https://github.com/AgataJacyk/bedzie5_theme">Będzie5</a></p>
 <p>PHP, Wordpress, HTML, CSS, JavaScript</p>
 <p>Custom graphics made by me, Custom WP theme, Web Design</p>
+  <p>2 / 2024 - 9 / 2024</p>
+  <p>Internship in WEB4PRO</p>
+  <p>React.js,  Wordpress, HTML, CSS, JavaScript</p>
+  <p>Design for the projects, Graphics for the side</p>
+  <p>Project Manager</p>
 <h4>Projects</h4>
 <p>4 / 2023 - present</p>
 <p><a href="https://super-mario-pizza.netlify.app/">Mario Pizza</a></p>
