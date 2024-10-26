@@ -25,10 +25,10 @@
     <section class="cv-contents">
       <div class="small-box"> 
         <h4>Education</h4>
-<p>21 / 03 / 2021 - present
+<p>3 / 2021 - 9 / 2024
 WSB University in Gdansk - 
 Informatics - Frontend Developer</p>
-<p>15 / 08 / 2020 - 20 / 03 / 2021
+<p>8 / 2020 - 3 / 2021
 Software Development Academy - Java from scratch <br>
 Software design patterns - 14h, <br>
 HTML, CSS,JavaScript - 14h,<br>
@@ -45,20 +45,16 @@ Development Bootcamp - Dr.
 Angela Yu</p>
 
 <h4>Languages</h4>
-<ul>
-  <li>Polish (native)</li>
-  <li>English (B2) - versant professional 
-english certificate - No. 92256118</li>
-  <li>Spanish (A1)</li>
-</ul>
+  <p>Polish (native)</p>
+  <p>English (B2) - versant professional 
+english certificate - No. 92256118</p>
+  <p>Spanish (A1)</p>
 
 <h4>Hobbies</h4>
-<ul>
-<li>programming and web design</li>
-<li>drawing, digital art</li>
-<li>asian culture, kpop</li>
-<li>tattoo artist</li>
-</ul>
+<p>programming and web design</p>
+<p>drawing, digital art</p>
+<p>asian culture, kpop</p>
+<p>tattoo artist</p>
 
 <h4>Other</h4>
 <p>6 / 2024 <br>
@@ -73,52 +69,45 @@ Volunteer</p>
 
       </div>
 <div class="big-box"> <h4>Job experience</h4>
-  <p>2 / 2024 - present</p>
+  <p>7 / 2024 - present</p>
+  <p>Giganci Programowania - programming trainer for children and youth</p>
+  <p>Scratch, Minecraft Education, JavaScript</p>
+  <p>2 / 2024 - 9 / 2024</p>
   <p>Internship in WEB4PRO</p>
   <p>React.js,  Wordpress, HTML, CSS, JavaScript</p>
   <p>Design for the projects, Graphics for the side</p>
   <p>Project Manager</p>
   <p>3 / 2021 - present</p>
 <p>Freelancer - Frontend Developer</p>
-<ul>
-<li>
 <p>7 / 2024 - present</p>
-<p>Richi Safari</p>
+<p><a href="https://richi-safari.vercel.app/">Richi Safari</a></p>
 <p>React.js, JavaScript, Bootstrap, HTML, CSS</p>
 <p>Web design, Graphics for the side</p>
-</li>
-<li>
 <p>7 / 2023 - 9 / 2023</p>
 <p><a href="https://nutriwiki.pl/ ">Nutri wiki</a></p>
 <p>PHP, Wordpress, HTML, CSS, JavaScript </p>
 <p>Web design, Graphics for the side, Coding - frontend site, Newsletter</p>
-</li>
 <br>
-<li>
 <p>8 / 2021 - 10 / 2021</p>
 <p><a href="https://github.com/AgataJacyk/bedzie5_theme">Będzie5</a></p>
 <p>PHP, Wordpress, HTML, CSS, JavaScript</p>
 <p>Custom graphics made by me, Custom WP theme, Web Design</p>
-</li>
-</ul>
 <h4>Projects</h4>
 <p>4 / 2023 - present</p>
 <p><a href="https://super-mario-pizza.netlify.app/">Mario Pizza</a></p>
-  <ul><li>Vue.js application, CSS, HTML, Custom graphics made by me, Light/Dark mode</li>
-</ul><br>
+<p>Vue.js application, CSS, HTML, Custom graphics made by me, Light/Dark mode</p>
+<br>
 <p>7 / 2023 - 9 / 2023</p>
 <p><a href="https://github.com/Olkens/pokeProjekt">Pokemon Browser</a></p>
-<ul><li>Vue.js application, SCSS, HTML, Web Design, Connection to API </li>
-  </ul>
+<p>Vue.js application, SCSS, HTML, Web Design, Connection to API </p>
+  
 <h4>Skills</h4>
-<ul>
-<li><b>Programming languages:</b> HTML 5, CSS 3, SCSS, Java Script(ES6)</li>
-<li><b>Frameworks:</b> React.js, Node.js, Angular, Vue.js, Bootstrap</li>
-<li><b>Database:</b> SQL</li>
-<li><b>Web/Apps design:</b> Figma, Canva</li>
-<li><b>Digital art:</b> Gimp, Procreate</li>
-<li><b>Soft skills:</b> creativity, good sense of aesthetics, good communication, team player, organization, willingness to learn</li>
-</ul>
+<p><b>Programming languages:</b> HTML 5, CSS 3, SCSS, Java Script(ES6)</p>
+<p><b>Frameworks:</b> React.js, Node.js, Angular, Vue.js, Bootstrap</p>
+<p><b>Database:</b> SQL</p>
+<p><b>Web/Apps design:</b> Figma, Canva</p>
+<p><b>Digital art:</b> Gimp, Procreate</p>
+<p><b>Soft skills:</b> creativity, good sense of aesthetics, good communication, team player, organization, willingness to learn</p>
 
 </div>
     </section>
